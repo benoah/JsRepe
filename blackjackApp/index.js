@@ -1,6 +1,6 @@
 // object
 let player = {
-  name: "Per",
+  name: "ben",
   chips: 200,
   sayHello: function () {
     console.log("Heisann!");

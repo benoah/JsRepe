@@ -35,6 +35,16 @@ Chapter 2
 
 Chapter 3
 
+- const 
+- addEventListner()
+- innerHtml
+- inputvalue
+- function parameters
+- template string
+- localstorage
+- the json object
+- object in arrays
+
 
 
 
